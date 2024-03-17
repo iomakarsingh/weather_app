@@ -22,8 +22,12 @@ Open index.html in your web browser.
 
 
 **API Usage:**
+
+
 This application utilizes the OpenWeatherMap API to retrieve weather data. You can find more information about the API and its endpoints here.
 
 
 **Contact:**
+
+
 Please reach me through mail : iomakarsingh@gmail.com
